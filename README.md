@@ -1,0 +1,1 @@
+This is my first real The Odin Project project. The goal was to create a likeness of the google.com homepage. It was surprisingly difficult for me at first, but ultimately I had a lot of fun and I learned a bunch. There were a couple of things toward the end that I still couldn't figure out how to do, but I'm overall happy with this. Many thanks to The Odin Project. 
